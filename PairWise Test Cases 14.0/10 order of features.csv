@@ -1,0 +1,7 @@
+# ACTS Test Suite Generation: Fri Apr 07 20:29:37 EDT 2017,,,,,,,,,
+#  '*' represents don't care value ,,,,,,,,,
+# Degree of interaction coverage: 2,,,,,,,,,
+# Number of parameters: 10,,,,,,,,,
+# Maximum number of values per parameter: 4,,,,,,,,,
+# Number of configurations: 22,,,,,,,,,
+Group2_1,Group2_2,Group3,Group5_1,Group5_2,Group6,Group1_1,Group1_2,Group4_1,Group4_2
